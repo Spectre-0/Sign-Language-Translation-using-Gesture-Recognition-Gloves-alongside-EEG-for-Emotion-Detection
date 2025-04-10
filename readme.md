@@ -1,4 +1,4 @@
-# BSL Sign Language Translation System with Emotion Detection
+-# BSL Sign Language Translation System with Emotion Detection
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -57,7 +57,7 @@ This system creates a bridge between British Sign Language (BSL) users and spoke
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/bsl-emotion-translation.git
+git clone https://github.com/Spectre-0/Sign-Language-Translation-using-Gesture-Recognition-Gloves-alongside-EEG-for-Emotion-Detection.git
 cd bsl-emotion-translation
 ```
 
