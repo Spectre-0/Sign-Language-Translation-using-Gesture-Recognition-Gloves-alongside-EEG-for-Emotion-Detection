@@ -322,7 +322,6 @@ The speech output system uses Amazon Polly to generate natural-sounding speech w
 
 - **Hardware Construction**:
   - Contributed significantly to glove assembly and construction
-  - Assisted with electrode placement and mounting system
   - Participated in hardware testing and validation
 
 - **Integration Testing**:
@@ -330,9 +329,6 @@ The speech output system uses Amazon Polly to generate natural-sounding speech w
   - Developed test protocols for component validation
   - Coordinated cross-component functionality
   - Managed project documentation and reporting
-
-
--
 
 ---
 
