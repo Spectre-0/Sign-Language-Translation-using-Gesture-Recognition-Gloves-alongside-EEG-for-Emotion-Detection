@@ -57,7 +57,7 @@ This system creates a bridge between British Sign Language (BSL) users and spoke
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/bsl-emotion-translation.git
+git clone https://github.com/Spectre-0/Sign-Language-Translation-using-Gesture-Recognition-Gloves-alongside-EEG-for-Emotion-Detection.git
 cd bsl-emotion-translation
 ```
 
@@ -243,7 +243,7 @@ The speech output system uses Amazon Polly to generate natural-sounding speech w
 
 ## Team Contributions
 
-### Adnan Uddin
+### Adnan Uddin (Spectre-0)
 - **EEG System**: Developed complete EEG emotion detection pipeline
   - Designed and implemented the neural network architecture
   - Created the feature extraction system for EEG signals
@@ -259,12 +259,9 @@ The speech output system uses Amazon Polly to generate natural-sounding speech w
   - Assisted with component integration between systems
   - Helped with EEG-TTS integration for emotion-modulated speech
 
-### Wiktor Szczepan
+### Wiktor Szczepan (PaNappL)
 - **Gesture Recognition Model**:
-  - Led development of the Random Forest gesture recognition model
-  - Designed feature engineering pipeline for gesture data
-  - Implemented cross-validation methodology
-  - Created confusion matrix analysis tools
+  - Led development of the PyTorch CNN + Transformer gesture recognition model
   - Developed model performance visualization
 
 - **Data Processing**:
@@ -274,10 +271,11 @@ The speech output system uses Amazon Polly to generate natural-sounding speech w
   - Optimized classification algorithms
 
 - **Hardware Integration**:
+  - Assisted with component integration between systems
   - Contributed to glove component selection and testing
   - Assisted with sensor positioning and circuit design
 
-### Muhammad Syam Atif
+### Muhammad Syam Atif (SyamAtif)
 - **Hardware Development**:
   - Led the hardware design and implementation for gesture recognition gloves
   - Designed and constructed the custom circuit on stripboard
@@ -295,7 +293,7 @@ The speech output system uses Amazon Polly to generate natural-sounding speech w
   - Created protective pouches for electronic components
   - Implemented battery housing and management
 
-### Bazil Saleem
+### Bazil Saleem (bazil777)
 - **Speech System**:
   - Developed the complete voice output system using Amazon Polly
   - Implemented emotion-modulated speech synthesis
@@ -313,7 +311,7 @@ The speech output system uses Amazon Polly to generate natural-sounding speech w
   - Created the dictionary management system
   - Implemented real-time abbreviation detection and expansion
 
-### Amanda Sophie Betton
+### Amanda Sophie Betton(eihposadnama)
 - **Project Management**:
   - Led overall project coordination and planning
   - Managed timeline and milestone tracking
@@ -322,7 +320,6 @@ The speech output system uses Amazon Polly to generate natural-sounding speech w
 
 - **Hardware Construction**:
   - Contributed significantly to glove assembly and construction
-  - Assisted with electrode placement and mounting system
   - Participated in hardware testing and validation
 
 - **Integration Testing**:
@@ -330,52 +327,6 @@ The speech output system uses Amazon Polly to generate natural-sounding speech w
   - Developed test protocols for component validation
   - Coordinated cross-component functionality
   - Managed project documentation and reporting
-
-## Challenges and Solutions
-
-### Hardware Challenges
-
-1. **Electrode Contact Quality**
-   - **Challenge**: Poor EEG signal quality due to inconsistent electrode contact
-   - **Solution**: Developed custom headband mounting system and used conductive gel
-
-2. **Flex Sensor Durability**
-   - **Challenge**: Flex sensor wiring showed signs of wear with extended use
-   - **Solution**: Designed protective sleeves and improved wiring connections
-
-3. **Battery Life**
-   - **Challenge**: Balancing power consumption with performance
-   - **Solution**: Optimized sampling rate and processing algorithms
-
-### Software Challenges
-
-1. **EEG Signal Processing**
-   - **Challenge**: Extreme variations in feature values (-1 to 18 million)
-   - **Solution**: Applied logarithmic transformation and scaling to high-magnitude features
-
-2. **Individual EEG Variations**
-   - **Challenge**: Significant differences in brainwave patterns between users
-   - **Solution**: Developed neural calibration system to adapt to individual baselines
-
-3. **Real-Time Processing**
-   - **Challenge**: Balancing latency with classification accuracy
-   - **Solution**: Optimized feature extraction and implemented efficient buffering
-
-## Future Work
-
-1. **Vocabulary Expansion**: Expand beyond the alphabet to recognize common words and phrases
-
-2. **Adaptive Learning**: Implement a system that learns and adapts to individual signing styles
-
-3. **Mobile Implementation**: Develop a standalone or mobile version for greater portability
-
-4. **Grammar Processing**: Add linguistic processing to handle BSL sentence structures
-
-5. **Multi-User Profiles**: Create profile system for different users with personalized calibration
-
-6. **Enhanced Emotion Detection**: Expand emotion classification to include more emotional states and intensities
-
-7. **Miniaturization**: Reduce size and visibility of components for improved aesthetics and comfort
 
 ---
 
