@@ -332,8 +332,7 @@ The speech output system uses Amazon Polly to generate natural-sounding speech w
   - Managed project documentation and reporting
 
 
-
-7. **Miniaturization**: Reduce size and visibility of components for improved aesthetics and comfort
+-
 
 ---
 
