@@ -243,7 +243,7 @@ The speech output system uses Amazon Polly to generate natural-sounding speech w
 
 ## Team Contributions
 
-### Adnan Uddin
+### Adnan Uddin (Spectre-0)
 - **EEG System**: Developed complete EEG emotion detection pipeline
   - Designed and implemented the neural network architecture
   - Created the feature extraction system for EEG signals
@@ -275,7 +275,7 @@ The speech output system uses Amazon Polly to generate natural-sounding speech w
   - Contributed to glove component selection and testing
   - Assisted with sensor positioning and circuit design
 
-### Muhammad Syam Atif
+### Muhammad Syam Atif (SyamAtif)
 - **Hardware Development**:
   - Led the hardware design and implementation for gesture recognition gloves
   - Designed and constructed the custom circuit on stripboard
@@ -293,7 +293,7 @@ The speech output system uses Amazon Polly to generate natural-sounding speech w
   - Created protective pouches for electronic components
   - Implemented battery housing and management
 
-### Bazil Saleem
+### Bazil Saleem (bazil777)
 - **Speech System**:
   - Developed the complete voice output system using Amazon Polly
   - Implemented emotion-modulated speech synthesis
@@ -311,7 +311,7 @@ The speech output system uses Amazon Polly to generate natural-sounding speech w
   - Created the dictionary management system
   - Implemented real-time abbreviation detection and expansion
 
-### Amanda Sophie Betton
+### Amanda Sophie Betton(eihposadnama)
 - **Project Management**:
   - Led overall project coordination and planning
   - Managed timeline and milestone tracking
