@@ -1,0 +1,45 @@
+{
+    "bsl_config": {
+        "model_path": "bsl_model.joblib",
+        "scaler_path": "bsl_scaler.joblib",
+        "feature_names_path": "feature_names.joblib",
+        "cooldown": 1.8462365591397851,
+        "confidence_threshold": 0.23548387096774195
+    },
+    "eeg_config": {
+        "model_path": "C:/Users/aladn/Documents/testforxiao/FINAL/SignLanguageRecorder/models/eeg_model_checkpoint_87(best Performnce).pth",
+        "com_port": "COM3",
+        "baudrate": 57600
+    },
+    "tts_config": {
+        "enabled": true,
+        "aws_region": "eu-west-2",
+        "voice_male": "Brian",
+        "voice_female": "Amy",
+        "gender": "male"
+    },
+    "theme": "Light",
+    "auto_expand_enabled": true,
+    "abbreviations": {
+        "BRB": "Be right back",
+        "LOL": "Laughing out loud",
+        "OMG": "Oh my goodness",
+        "IDK": "I don't know",
+        "TY": "Thank you",
+        "PLZ": "Please",
+        "IMO": "In my opinion",
+        "BTW": "By the way",
+        "THX": "Thanks",
+        "GG": "Good game",
+        "WYD": "What are you doing",
+        "HRU": "How are you",
+        "GBU": "God bless you",
+        "HBD": "Happy birthday",
+        "GM": "Good morning",
+        "GN": "Good night",
+        "TTYL": "Talk to you later",
+        "ILY": "I love you",
+        "HI": "Hello",
+        "OK": "Okay"
+    }
+}
