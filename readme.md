@@ -1,4 +1,4 @@
--# BSL Sign Language Translation System with Emotion Detection
+# BSL Sign Language Translation System with Emotion Detection
 
 ## Table of Contents
 - [Project Overview](#project-overview)
