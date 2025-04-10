@@ -259,12 +259,9 @@ The speech output system uses Amazon Polly to generate natural-sounding speech w
   - Assisted with component integration between systems
   - Helped with EEG-TTS integration for emotion-modulated speech
 
-### Wiktor Szczepan
+### Wiktor Szczepan (PaNappL)
 - **Gesture Recognition Model**:
-  - Led development of the Random Forest gesture recognition model
-  - Designed feature engineering pipeline for gesture data
-  - Implemented cross-validation methodology
-  - Created confusion matrix analysis tools
+  - Led development of the PyTorch CNN + Transformer gesture recognition model
   - Developed model performance visualization
 
 - **Data Processing**:
@@ -274,6 +271,7 @@ The speech output system uses Amazon Polly to generate natural-sounding speech w
   - Optimized classification algorithms
 
 - **Hardware Integration**:
+  - Assisted with component integration between systems
   - Contributed to glove component selection and testing
   - Assisted with sensor positioning and circuit design
 
