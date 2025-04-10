@@ -58,7 +58,8 @@ This system creates a bridge between British Sign Language (BSL) users and spoke
 1. Clone the repository:
 ```bash
 git clone https://github.com/Spectre-0/Sign-Language-Translation-using-Gesture-Recognition-Gloves-alongside-EEG-for-Emotion-Detection.git
-cd bsl-emotion-translation
+cd Sign-Language-Translation-using-Gesture-Recognition-Gloves-alongside-EEG-for-Emotion-Detection
+
 ```
 
 2. Install required Python packages:
